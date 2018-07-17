@@ -39,6 +39,8 @@ static NSTimeInterval const DEFAULT_TIME_DURATION = 1.0;
         self.touchEnabled = NO;
         
         NSLog(@"测试git推送");
+        
+        NSLog(@"测试第二次推送");
     }
     return self;
 }
