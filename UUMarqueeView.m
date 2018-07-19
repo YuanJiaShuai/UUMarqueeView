@@ -37,6 +37,8 @@ static NSTimeInterval const DEFAULT_TIME_DURATION = 1.0;
         self.timeIntervalPerScroll = DEFAULT_TIME_INTERVAL;
         self.timeDurationPerScroll = DEFAULT_TIME_DURATION;
         self.touchEnabled = NO;
+        
+        NSLog(@"hello world 测试推送分支");
     }
     return self;
 }
